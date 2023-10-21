@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "newgencrm-4a480": {
+      "hosting": {
+        "module_example": [
+          "newgencrm-4a480"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "newgencrm-4a480"
+  }
+}
